@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "node-first-app",
+            "database": "${workspaceFolder:node-first-app}/local.db",
+            "group": "nodegrp"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
